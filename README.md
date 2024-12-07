@@ -75,4 +75,4 @@ The second name of a programmer is Error. All people make mistakes, and I’m no
 
 #### Other Languages
 - [Русский (Russian)](/versions/Russian_version.md)  
-- [Հայերեն (Armenian)](GendByteMaster/versions/Armenia_version.md)
+- [Հայերեն (Armenian)](/versions/Armenia_version.md)
