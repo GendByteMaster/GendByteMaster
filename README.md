@@ -207,6 +207,33 @@ An innovative data encryption system inspired by anime concepts and enhanced wit
 
 **Tech:** Rust, Python, FastAPI, AI, Claude
 
+## Public Repositories
+
+Public repositories from [GendByteMaster on GitHub](https://github.com/GendByteMaster?tab=repositories), sorted by recent activity.
+
+- [GendByteMaster](https://github.com/GendByteMaster/GendByteMaster) — GitHub profile configuration
+- [orchestration-system](https://github.com/GendByteMaster/orchestration-system) — Python orchestration workflow skill
+- [Understand-Anything](https://github.com/GendByteMaster/Understand-Anything) — Fork
+- [quote_of_day](https://github.com/GendByteMaster/quote_of_day) — C++
+- [Greenhouse](https://github.com/GendByteMaster/Greenhouse) — TypeScript
+- [Voxia](https://github.com/GendByteMaster/Voxia) — TypeScript text-to-speech application
+- [CrystalPointer](https://github.com/GendByteMaster/CrystalPointer) — Rust
+- [linux](https://github.com/GendByteMaster/linux) — Fork
+- [Gridlock](https://github.com/GendByteMaster/Gridlock) — TypeScript tactical strategy game
+- [P2PNode](https://github.com/GendByteMaster/P2PNode) — Python
+- [Sigmora](https://github.com/GendByteMaster/Sigmora) — Python notification architecture
+- [MysticPulse](https://github.com/GendByteMaster/MysticPulse) — Rust DAG blockchain
+- [ChainForge](https://github.com/GendByteMaster/ChainForge) — Python blockchain backend
+- [poc_rust_async](https://github.com/GendByteMaster/poc_rust_async) — Rust Proof of Capacity simulation
+- [anything-llm](https://github.com/GendByteMaster/anything-llm) — Fork
+- [marimo](https://github.com/GendByteMaster/marimo) — Fork
+- [web-check](https://github.com/GendByteMaster/web-check) — Fork
+- [Digitscape](https://github.com/GendByteMaster/Digitscape) — Python
+- [DPS](https://github.com/GendByteMaster/DPS) — Python
+- [bevy](https://github.com/GendByteMaster/bevy) — Fork
+- [vaultwarden](https://github.com/GendByteMaster/vaultwarden) — Fork
+- [send-securely](https://github.com/GendByteMaster/send-securely) — Fork
+
 ## Services & Products
 
 Level up your digital experience
@@ -244,7 +271,7 @@ FlowForge gives you a node-based canvas for building automation logic visually, 
 
 I'm always open to new opportunities and thoughtful collaborations. If you have a project, a question, or just want to say hi, feel free to reach out.
 
-- [GitHub - Repositories](https://github.com/GendByteMaster?tab=repositories)
+- [GitHub - Repository](https://github.com/gendbytemaster)
 - [Twitch Channel Stream](https://www.twitch.tv/gendbytemaster)
 - [Telegram](https://t.me/hendrik_minasaryan)
 - [DonationAlerts](https://www.donationalerts.com/r/gendbytemaster)

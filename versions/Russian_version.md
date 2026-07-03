@@ -207,6 +207,33 @@ Rezervo — это современная платформа для мастер
 
 **Tech:** Rust, Python, FastAPI, AI, Claude
 
+## Публичные репозитории
+
+Публичные репозитории из [GendByteMaster на GitHub](https://github.com/GendByteMaster?tab=repositories), отсортированные по последней активности.
+
+- [GendByteMaster](https://github.com/GendByteMaster/GendByteMaster) — конфигурация GitHub-профиля
+- [orchestration-system](https://github.com/GendByteMaster/orchestration-system) — Python skill для orchestration workflows
+- [Understand-Anything](https://github.com/GendByteMaster/Understand-Anything) — Fork
+- [quote_of_day](https://github.com/GendByteMaster/quote_of_day) — C++
+- [Greenhouse](https://github.com/GendByteMaster/Greenhouse) — TypeScript
+- [Voxia](https://github.com/GendByteMaster/Voxia) — TypeScript Text-to-Speech приложение
+- [CrystalPointer](https://github.com/GendByteMaster/CrystalPointer) — Rust
+- [linux](https://github.com/GendByteMaster/linux) — Fork
+- [Gridlock](https://github.com/GendByteMaster/Gridlock) — TypeScript tactical strategy game
+- [P2PNode](https://github.com/GendByteMaster/P2PNode) — Python
+- [Sigmora](https://github.com/GendByteMaster/Sigmora) — Python notification architecture
+- [MysticPulse](https://github.com/GendByteMaster/MysticPulse) — Rust DAG blockchain
+- [ChainForge](https://github.com/GendByteMaster/ChainForge) — Python blockchain backend
+- [poc_rust_async](https://github.com/GendByteMaster/poc_rust_async) — Rust Proof of Capacity simulation
+- [anything-llm](https://github.com/GendByteMaster/anything-llm) — Fork
+- [marimo](https://github.com/GendByteMaster/marimo) — Fork
+- [web-check](https://github.com/GendByteMaster/web-check) — Fork
+- [Digitscape](https://github.com/GendByteMaster/Digitscape) — Python
+- [DPS](https://github.com/GendByteMaster/DPS) — Python
+- [bevy](https://github.com/GendByteMaster/bevy) — Fork
+- [vaultwarden](https://github.com/GendByteMaster/vaultwarden) — Fork
+- [send-securely](https://github.com/GendByteMaster/send-securely) — Fork
+
 ## Сервисы и продукты
 
 Поднимите свой цифровой опыт на новый уровень
@@ -244,7 +271,7 @@ FlowForge даёт node-based canvas для визуальной сборки au
 
 Я всегда открыт к новым возможностям и вдумчивому сотрудничеству. Если у вас есть проект, вопрос или вы просто хотите поздороваться, смело пишите.
 
-- [GitHub - Репозитории](https://github.com/GendByteMaster?tab=repositories)
+- [GitHub - Репозиторий](https://github.com/gendbytemaster)
 - [Twitch-канал](https://www.twitch.tv/gendbytemaster)
 - [Telegram](https://t.me/hendrik_minasaryan)
 - [DonationAlerts](https://www.donationalerts.com/r/gendbytemaster)
