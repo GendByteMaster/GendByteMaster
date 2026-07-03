@@ -244,7 +244,7 @@ FlowForge gives you a node-based canvas for building automation logic visually, 
 
 I'm always open to new opportunities and thoughtful collaborations. If you have a project, a question, or just want to say hi, feel free to reach out.
 
-- [GitHub - Repository](https://github.com/gendbytemaster)
+- [GitHub - Repositories](https://github.com/GendByteMaster?tab=repositories)
 - [Twitch Channel Stream](https://www.twitch.tv/gendbytemaster)
 - [Telegram](https://t.me/hendrik_minasaryan)
 - [DonationAlerts](https://www.donationalerts.com/r/gendbytemaster)

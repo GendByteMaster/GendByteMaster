@@ -244,7 +244,7 @@ FlowForge даёт node-based canvas для визуальной сборки au
 
 Я всегда открыт к новым возможностям и вдумчивому сотрудничеству. Если у вас есть проект, вопрос или вы просто хотите поздороваться, смело пишите.
 
-- [GitHub - Репозиторий](https://github.com/gendbytemaster)
+- [GitHub - Репозитории](https://github.com/GendByteMaster?tab=repositories)
 - [Twitch-канал](https://www.twitch.tv/gendbytemaster)
 - [Telegram](https://t.me/hendrik_minasaryan)
 - [DonationAlerts](https://www.donationalerts.com/r/gendbytemaster)
