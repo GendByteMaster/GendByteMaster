@@ -107,6 +107,12 @@ _October 2019 - Present_
 
 ## Key Projects
 
+### [SSHDeck - Open Source](https://github.com/GendByteMaster/SSHDeck)
+
+SSHDeck is a local-first desktop SSH workspace for developers built around the system OpenSSH toolchain. It combines real PTY terminal sessions with SFTP, transfer management, port forwarding, session/history views, structured diagnostics, workspace search, settings, and Windows release gates in one focused desktop application.
+
+**Tech:** Rust, Tauri 2, TypeScript, React, xterm.js, OpenSSH, portable-pty
+
 ### CellNexus - In Development
 
 CellNexus is a modular peer-to-peer DAG network for streaming and persisting typed cellular automata data. It combines a verifiable DAG core, persistent storage, and a libp2p overlay so nodes can exchange state in real time.
@@ -211,6 +217,7 @@ An innovative data encryption system inspired by anime concepts and enhanced wit
 
 Public repositories from [GendByteMaster on GitHub](https://github.com/GendByteMaster?tab=repositories), sorted by recent activity.
 
+- [SSHDeck](https://github.com/GendByteMaster/SSHDeck) — Rust/Tauri local-first OpenSSH desktop workspace
 - [GendByteMaster](https://github.com/GendByteMaster/GendByteMaster) — GitHub profile configuration
 - [orchestration-system](https://github.com/GendByteMaster/orchestration-system) — Python orchestration workflow skill
 - [Understand-Anything](https://github.com/GendByteMaster/Understand-Anything) — Fork
