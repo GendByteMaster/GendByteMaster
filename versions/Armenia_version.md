@@ -57,6 +57,23 @@ FastAPI · Tokio · PostgreSQL · MongoDB · Redis · WebSocket · REST · P2P
 **Frontend**  
 Next.js · React · Tailwind CSS
 
+### Web Application Stack
+
+**Frontend**  
+Next.js 16 · App Router · React Server Components · Server Actions · TypeScript · React Flow
+
+**Backend & Data**  
+Supabase · PostgreSQL · Auth · Storage · Realtime · Row Level Security
+
+**UI & Motion**  
+Tailwind CSS v4 · HeroUI 3 · Radix UI · Motion / Framer Motion · GSAP
+
+**State & Forms**  
+Zustand · React Hook Form · Zod
+
+**Infrastructure & APIs**  
+REST APIs · WebSocket · Docker
+
 **Desktop & Cross-platform**  
 Flutter · Tauri · Linux · Windows
 
