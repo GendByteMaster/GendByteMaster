@@ -1,7 +1,8 @@
 <p align="right">
   <a href="../README.md">English</a> ·
   <a href="Russian_version.md">Русский</a> ·
-  <strong>Հայերեն</strong>
+  <strong>Հայերեն</strong> ·
+  <a href="Chinese_version.md">中文</a>
 </p>
 
 # Full-Stack / Rust Engineer
