@@ -46,6 +46,14 @@ My priorities are:
 - strong testing and verification;
 - reducing unnecessary complexity.
 
+## About
+
+I'm a self-taught software engineer focused on building practical, technically ambitious products.
+
+I have a physical disability, so I prefer remote, asynchronous collaboration and written communication.
+
+My work spans system architecture, backend infrastructure, desktop applications, and full-stack development, with a strong focus on reliability, maintainability, and engineering trade-offs.
+
 ## Technology
 
 **Languages**  
