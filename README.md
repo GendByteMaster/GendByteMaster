@@ -1,7 +1,8 @@
 <p align="right">
   <strong>English</strong> ·
   <a href="versions/Russian_version.md">Русский</a> ·
-  <a href="versions/Armenia_version.md">Հայերեն</a>
+  <a href="versions/Armenia_version.md">Հայերեն</a> ·
+  <a href="versions/Chinese_version.md">中文</a>
 </p>
 
 # Full-Stack / Rust Engineer
